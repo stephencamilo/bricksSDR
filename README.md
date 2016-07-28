@@ -1,2 +1,2 @@
 # brickcms
- "Simplicity is tha art of hiding complexity"
+ "Simplicity is the art of hiding complexity"
