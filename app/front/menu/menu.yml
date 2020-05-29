@@ -1,0 +1,13 @@
+menu:
+  google:
+    text: "Go to google!"
+    link: "http://google.com"
+  facebook:
+    text: "Go to facebook!"
+    link: "http://facebook.com"
+  tumblr:
+    text: "Go to tumblr!"
+    link: "http://tumblr.com"
+  twitter:
+    text: "Go to twitter!"
+    link: "http://twitter.com"
