@@ -1,7 +1,0 @@
-menu:
-  apple:
-    text: "Go to apple!"
-    link: "http://apple.com"
-  yahoo:
-    text: "Go to yahoo!"
-    link: "http://yahoo.com"
